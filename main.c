@@ -625,4 +625,4 @@ void run(int show[100*2+1][100*2+1],int n,int m,int *score,int*mon_pos){
                 }
 }
 ///-----------end run-----------
-
+//add new line
